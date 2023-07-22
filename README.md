@@ -7,7 +7,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-jack-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,13 +30,13 @@ To run **jack-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+sudo git clone https://github.com/Sufi-Yan-Raza/sc-syr-jack-portfolio-prototype-demo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
+git clone https://github.com/Sufi-Yan-Raza/sc-syr-jack-portfolio-prototype-demo.git
 ```
 
 ### Contact
